@@ -4,7 +4,7 @@ function login()
 }
 function blog()
 {
-    window.location.href="blog.html";
+    window.location.href="TESTBLOG.html";
 }
 
 function register()
@@ -13,13 +13,13 @@ function register()
 }
 function playmode()
 {
-window.location.href="playmode.html";
+window.location.href="PLAYMODE.html";
 }
 function shop()
 {
-    window.location.href="shop.html";
+    window.location.href="TESTSHOP.html";
 }
 function faqs()
 {
-    window.location.href="faqs.html";
+    window.location.href="TESTFAQS.html";
 }
